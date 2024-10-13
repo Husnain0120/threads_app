@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^5.7.2",
+    "@clerk/themes": "^2.1.35",
     "@uploadthing/react": "^7.0.3",
     "mongoose": "^8.7.1",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
     "svix": "^1.37.0",
+    "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^7.1.0"
   },
   "devDependencies": {
